@@ -1,0 +1,3 @@
+Hi this log file
+
+thus is from child branch
